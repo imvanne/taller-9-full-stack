@@ -4,7 +4,8 @@ body {
   font-family: system-ui, -apple-system;
 }
 
-body, div {
+body,
+div {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,10 +20,12 @@ div {
 
 h1 {
   font-size: 58px;
+  color: #0011ff;
 }
 
 h2 {
   font-size: 32px;
+  color: #0011ff;
 }
 
 nav {
@@ -49,7 +52,7 @@ p {
 a {
   padding: 12px 25px;
   color: #ffffff;
-  background-color: #fd8f54e2;
+  background-color: #0011ff;
   border: none;
   border-radius: 5px;
   font-family: system-ui, -apple-system;
@@ -60,5 +63,6 @@ a {
 }
 
 a:hover {
-  background-color: #e87537e2;
+  background-color: #e2e2e2;
+  color: #0011ff;
 }
