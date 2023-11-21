@@ -14,6 +14,7 @@
  <img src="./public/images/html.png" alt="html">
 
 <h2>Punto 3: Diseño con CSS</h2>
+<img src="./public/images/CSS.png" alt="css">
 
 <h2>Punto 4: Titulos</h2>
 
