@@ -1,0 +1,33 @@
+header{
+
+    display: flex;
+    align-items: flex-start;
+    margin: 0px 100px;
+    margin-top: 50px;
+    padding: 1px 50px;
+    background-color: #ddafe4 ;
+}
+.button--blue{
+        margin-right: 20px;
+        background-color: #2331d1;
+        color: #fff;
+        border: none;
+        padding: 10px;
+        font-weight: bold;
+        cursor: pointer;
+
+}
+.header__navigation{
+    display: flex;
+    align-items: center;
+    }
+.header__navigation nav ul{
+        display: flex;
+        gap: 50px;
+        list-style: none;
+    }    
+.header__navigation nav ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    }
+

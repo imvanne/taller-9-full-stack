@@ -1,0 +1,20 @@
+body{
+    font-size: 20px;
+    font-weight: 60;
+    line-height: 10px;
+    margin:50px 50px;
+    letter-spacing: -0.64px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    
+}
+#enlace{
+    color: yellow;
+    text-decoration: underline;
+ }
+ #enlace2{
+     color: blueviolet;
+     text-decoration: underline;
+ }
+ 

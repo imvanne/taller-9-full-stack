@@ -1,0 +1,22 @@
+table{
+    border: 2px dotted black;
+    border-collapse: collapse;
+    border-bottom: 2px dotted red;
+}
+tr, td{
+    border-top: 2px dotted black;
+    border-left: 2px dotted black;
+    border-right: 2px dotted black;
+    border-collapse: collapse;
+    background-color: yellow;
+    min-width: 50px;
+}
+th,td{
+    padding: 5px;
+}
+thead{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}

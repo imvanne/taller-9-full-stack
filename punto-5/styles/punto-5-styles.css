@@ -1,0 +1,42 @@
+body{
+    
+    display: flex;
+    flex-wrap: nowrap;
+
+    font-size: 60px;
+    font-weight: 60;
+    line-height: 70px;
+    margin: 20px 0px;
+    letter-spacing: -0.64px;
+    padding: 20px 100px;
+    background-color: transparent ;
+
+
+}
+
+.i{
+    color: rgb(8, 167, 8);
+    text-decoration: underline;
+}
+.u{
+    color: red;
+    font-weight: bold;
+}
+.e{
+    color: black;
+    text-decoration:overline underline;
+}
+.o{
+    color: black;
+    font-size: 100px;
+    font-weight: bold;
+}
+.f{
+    color: blue;
+    font-weight: bold;
+}
+.u2{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}

@@ -17,11 +17,16 @@
 <img src="./public/images/CSS.png" alt="css">
 
 <h2>Punto 4: Titulos</h2>
+<img src="./public/images/Titulos.png" alt="titulos">
 
 <h2>Punto 5: Parrafo</h2>
+<img src="./public/images/Parrafo.png" alt="parrafo">
 
 <h2>Punto 6: Links</h2>
+<img src="./public/images/links.png" alt="links">
 
 <h2>Punto 7 y 8: Navegacion</h2>
+<img src="./public/images/navegacion.png" alt="navegación">
 
 <h2>Punto 9: Tabla</h2>
+<img src="./public/images/tabla.png" alt="tabla">
