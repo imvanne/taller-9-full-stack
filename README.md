@@ -1,4 +1,4 @@
-<h1>Taller 9 - Angie Vanessa Herrera Rincon</h1>
+<h1>Taller 9 - Angie Vanessa Herrera Rincón</h1>
 
 <h2>Informacion</h2>
 <p>Curso: Full Stack Basico - Grupo 1</p>
